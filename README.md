@@ -1,6 +1,6 @@
 ### Flower Framework Practice Codes
 
-- Introduction to Flower
+1. Introduction to Flower
      - Loading the dataset and centralized training in Pytorch
      - Starting on FL
          - Implementing Flower Client Class (using flwr.client.NumPyClient)
