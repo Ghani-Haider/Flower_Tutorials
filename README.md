@@ -11,7 +11,7 @@
        - Implementing client generated metric (loss, accuracy etc) aggregation function
        - Starting the simulation
 
-1. Use A Federated Learning Strategy (Part 2)
+2. Use A Federated Learning Strategy (Part 2)
      - Load Torchvision CIFAR10 Dataset into partitions
      - Model Training & Eval Pytorch Code For Client
      - Customizing FLOWER Client
@@ -22,3 +22,9 @@
        - Sending/receiving arbitrary values to/from clients: configure/set client-side params from server side
 
 
+3. Building A Custom Strategy From Scratch (Part 3)
+     - Dataset Load & Partitions
+     - Model Architecture, Train & Test Functions
+     - Custom FLOWER Client
+     - Helper Functions
+     - Building A Strategy From Scratch (FedCustom)
