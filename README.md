@@ -28,3 +28,12 @@
      - Custom FLOWER Client
      - Helper Functions
      - Building A Strategy From Scratch (FedCustom)
+
+3. Customize The FLOWER Client Class (Part 4)
+     - Dataset Load & Partitions
+     - Model Architecture, Train & Test Functions
+     - Revisiting FLOWER NumPy Client
+     - Moving from NumPyClient to Client
+     - Custom Serialization & Deserialization
+          - Client Side Implementation (in client class)
+          - Server Side Implementation (in strategy class)
